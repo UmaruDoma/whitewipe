@@ -1,0 +1,8 @@
+    name: whitewiper
+    main: de.sse.whitewiper.whitewiper
+    author: cndrbrbr
+    description: kick all Players not listed on the Whitelist
+    version: 1.8
+    commands:
+     
+    
